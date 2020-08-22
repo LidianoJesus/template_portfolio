@@ -29,6 +29,6 @@ I started with R and Azure ML, and now I'm really excited about Python ......
 
 
 ## Projetos:
-Veja os tutoriais publicados do Maze:
+Veja tutoriais publicados pelo site Maze:
 
 * **O Histograma como ferramenta de Analise de dados:** https://bit.ly/3j38fs3
