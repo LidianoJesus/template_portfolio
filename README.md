@@ -33,3 +33,4 @@ Veja tutoriais publicados pelo site Maze:
 
 * O Histograma como ferramenta de Analise de dados: https://bit.ly/3j38fs3
 * O Gráfico de Dispersão como ferramenta de observação de duas variáveis: https://bityli.com/VBY02 
+* Analise do eleitorado brasileiro: 
