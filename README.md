@@ -32,7 +32,7 @@ I started with R and Azure ML, and now I'm really excited about Python ......
 Veja tutoriais publicados pelo site Maze:
 
 * O Histograma como ferramenta de Analise de dados: https://bit.ly/3j38fs3
-* O Gráfico de Dispersão como ferramenta de observação de duas variáveis: https://bityli.com/VBY02 
-* Analise do eleitorado brasileiro: https://bityli.com/e48EK
-* Analise de dados de API´s dos partidos da Câmara dos Deputados: https://bityli.com/cOTHO
-* Analise de Dados da Copa do Mundo FIFA - Técnica de raspagem de dados: https://bityli.com/kB2yf 
+* O Gráfico de Dispersão como ferramenta de observação de duas variáveis: https://github.com/LidianoJesus/Basic-Projects/blob/master/O%20gr%C3%A1fico%20de%20dispers%C3%A3o%20como%20ferramenta%20de%20observa%C3%A7%C3%A3o%20de%20duas%20vari%C3%A1veis.ipynb 
+* Analise do eleitorado brasileiro: https://github.com/LidianoJesus/Basic-Projects/blob/master/csv_eleitorado.ipynb
+* Analise de dados de API´s dos partidos da Câmara dos Deputados: https://github.com/LidianoJesus/Basic-Projects/blob/master/estudo_api_partidos_camara_deputados.ipynb
+* Analise de Dados da Copa do Mundo FIFA - Técnica de raspagem de dados: https://github.com/LidianoJesus/Basic-Projects/blob/master/raspagem_wikipedia.ipynb 
