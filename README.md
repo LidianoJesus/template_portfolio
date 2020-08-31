@@ -35,4 +35,3 @@ Veja tutoriais publicados pelo site Maze:
 * O Gráfico de Dispersão como ferramenta de observação de duas variáveis: https://bit.ly/3hEPHhv
 * Analise do eleitorado brasileiro: https://bit.ly/2YO7ETx
 * Analise de dados de API´s dos partidos da Câmara dos Deputados: https://bit.ly/3lzdMZp
-* Analise de Dados da Copa do Mundo FIFA - Técnica de raspagem de dados: https://bit.ly/3lsIraK 
