@@ -24,7 +24,6 @@ I started with R and Azure ML, and now I'm really excited about Python ......
 **Background in:** Industrial Automation, Python, R, Power BI and Machine Learning.
 
 **Links:**
-* [Site](http://www.mazesistemas.com)
 * [LinkedIn](https://www.linkedin.com/in/lidiano-jesus-industrial-automation-9b416116/)
 
 
