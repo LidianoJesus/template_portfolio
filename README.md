@@ -28,7 +28,7 @@ I started with R and Azure ML, and now I'm really excited about Python ......
 
 
 ## Projetos:
-Veja tutoriais publicados pelo site Maze:
+Veja tutoriais publicados de atividade técnica:
 
 * O Histograma como ferramenta de Analise de dados: https://bit.ly/3j38fs3
 * O Gráfico de Dispersão como ferramenta de observação de duas variáveis: https://bit.ly/3hEPHhv
