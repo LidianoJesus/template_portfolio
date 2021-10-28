@@ -34,3 +34,4 @@ Veja tutoriais publicados de atividade técnica:
 * O Gráfico de Dispersão como ferramenta de observação de duas variáveis: https://bit.ly/3hEPHhv
 * Analise do eleitorado brasileiro: https://bit.ly/2YO7ETx
 * Analise de dados de API´s dos partidos da Câmara dos Deputados: https://bit.ly/3lzdMZp
+* Serviço de Analise de Crédito: https://bit.ly/3blWvz6
