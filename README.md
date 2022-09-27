@@ -35,4 +35,4 @@ Veja tutoriais publicados de atividade técnica:
 * Analise do eleitorado brasileiro: https://bit.ly/2YO7ETx
 * Analise de dados de API´s dos partidos da Câmara dos Deputados: https://bit.ly/3lzdMZp
 * Serviço de Analise de Crédito: https://bit.ly/3blWvz6
-* Bootcamp Di Innovation One -> : 
+* Bootcamp Dio Innovation One -> Geração Tech Unimed-BH - Ciência de Dados: https://github.com/LidianoJesus/dio-desafio-github-repositorio1
